@@ -105,7 +105,7 @@ export default function Posts() {
             className="form-control form-control-lg"
             id="title"
             placeholder="Enter the post title here"
-            maxLength="100"
+            maxLength={100}
             value={title}
             onChange={(e) => setTitle(e.target.value)}
           />
