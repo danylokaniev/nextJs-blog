@@ -1,1 +1,5 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+Created by - Kanievskyi Danylo.
+
+Тестовое задание для DevelopsToday.
+
+Чтобы увидить коментарии к посту, необходимо перейти на страницу поста. Но так как не у всех постов есть комментарии, то необходимо выбрать пост с комментариями.
